@@ -1,11 +1,11 @@
 ## Hi there 👋 I'm Caio Cabral👨‍💻
 
-- 🔭 **Atualmente** cursando Análise e Desenvolvimento de Sistemas na UNINTER | **Cursos Feitos:** CCNA-1 (Cisco), CyberOps (Cisco), Endpoint Security (Cisco), Algoritmo (CursoemVideo), Python (CursoemVideo), Git e GitHub (CursoemVideo).
-- ⚡ **Experiência em:**
+- 🔭 **Currently** studying Systems Analysis and Development at UNINTER. | **Courses Completed:** CCNA-1 (Cisco), CyberOps (Cisco), Endpoint Security (Cisco), Algoritmo (CursoemVideo), Python (CursoemVideo), Git e GitHub (CursoemVideo).
+- ⚡ **Experience:**
   - Python
   - Java
   - Git e GitHub
   - Linux
-- 👌 **Projetos:**
+- 👌 **Projects:**
 - 😄 Pronouns: He/Him
 
