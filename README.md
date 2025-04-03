@@ -39,7 +39,7 @@
 | **CursoemVideo** | Algorithms, Python, Git & GitHub, MySQL, Java Basics, Computer Networks |
 | **UNINTER** | Object-Oriented Programming with Java |
 
-## 🛠️ Projects
+## 🛠️ Most Relevant Projects
 ### 📋 Task Board System
 [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
 - A complete task management system developed for Decola Tech (Avanade) 2025
