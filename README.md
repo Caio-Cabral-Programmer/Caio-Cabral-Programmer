@@ -40,11 +40,7 @@
 | **UNINTER** | Object-Oriented Programming with Java |
 
 ## 🛠️ Most Relevant Projects
-### 📋 Task Board System
-[![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
-- A complete task management system developed for Decola Tech (Avanade) 2025
-- Features: User authentication, task CRUD operations, status tracking
-- Technologies: Java, Liquibase, Lombok, MySQL
+### 📋 Task Board System [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
 
 ## 😊 About Me
 - ✨ **Pronouns:** He/Him
