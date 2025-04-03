@@ -10,8 +10,11 @@
 - ☕ **Java** (OOP, Liquibase, Lombok)
 - 🐍 **Python**
 - 🗃️ **Database Management** (MySQL)
-- 🐧 **Linux** Systems
 - 🔄 **Git & GitHub** Version Control
+
+✔ **Basic Knowledge:**
+- 🛠 HTML/CSS/JavaScript
+- 🐧 **Linux** Systems
 
 ## 🏆 Certifications & Courses
 | Provider | Courses |
