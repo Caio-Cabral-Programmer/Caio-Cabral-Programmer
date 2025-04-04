@@ -39,7 +39,7 @@
 - 🔄 **Git & GitHub** Version Control
 
 ✔ **Basic Knowledge:**
-- 🛠 HTML/CSS/JavaScript
+- 🛠 HTML/CSS/JavaScript/TypeScript
 - 🐧 **Linux** Systems
 
 ## 🏆 Certifications & Courses
