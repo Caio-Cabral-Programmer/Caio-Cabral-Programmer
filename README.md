@@ -1,5 +1,16 @@
 # 👋 Hello, I'm Caio Cabral! 🚀
 
+
+
+<div align="center">
+
+### 🔗 Links Úteis
+
+[![Notion](https://img.shields.io/badge/📝_Notion-My_Java_Study_Board-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Caio_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cabral-30a689317)
+
+</div>
+
 <div align="center">
 
 ## 📊 GitHub Stats
