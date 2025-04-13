@@ -1,11 +1,15 @@
-# 👋 Hello, I'm Caio Cabral! 🚀
-
-
+# Hello! Welcome!
+## I'm Caio Cabral, a Java Developer
 
 <div align="center">
 
-## 🛠️ Most Relevant Projects
+
+
+## Most Relevant Projects
 ### 📋 Task Board System [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
+
+### Techs
+
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -35,6 +39,8 @@
 
 </div>
 
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -51,7 +57,8 @@
 
 ## 📚 Currently Studying
 - 🎓 Systems Analysis and Development at **UNINTER** - 15/07/2024 to 15/01/2027 (2 and a half years)
-- ☕ **Advanced Java** concepts and frameworks
+- ☕ **Advanced Java** concepts and Spring/SpringBoot frameworks
+- ✨ **Advanced HTML/CSS/JS/TS** concepts and Angular framework
 - 🌎 **English proficiency** for tech communication
 
 ## 💻 Technical Skills
@@ -73,7 +80,7 @@
 | **UNINTER** | Object-Oriented Programming with Java |
 | **DIO** | Integração de Sistemas com Banco de Dados (Java e MySQL) |
 
-## 😊 About Me
+## About Me
 - ✨ **Pronouns:** He/Him
 - 🌱 Always learning and growing in tech
 - 💡 Passionate about problem-solving and clean code
