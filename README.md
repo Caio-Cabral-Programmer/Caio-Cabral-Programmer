@@ -4,6 +4,29 @@
 
 <div align="center">
 
+## 🛠️ Most Relevant Projects
+### 📋 Task Board System [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/typescript/3178C6" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
+</div>
+
+###
+
 ### 🔗 Links Úteis
 
 [![Notion Java](https://img.shields.io/badge/📚_Notion-My_Java_Study_Board-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
@@ -49,9 +72,6 @@
 | **CursoemVideo** | Algorithms, Python, Git & GitHub, MySQL, Java Basics, Computer Networks |
 | **UNINTER** | Object-Oriented Programming with Java |
 | **DIO** | Integração de Sistemas com Banco de Dados (Java e MySQL) |
-
-## 🛠️ Most Relevant Projects
-### 📋 Task Board System [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
 
 ## 😊 About Me
 - ✨ **Pronouns:** He/Him
