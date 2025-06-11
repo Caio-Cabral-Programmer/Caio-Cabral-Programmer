@@ -7,6 +7,11 @@
 
 ## Most Relevant Projects
 ### 📋 Task Board System [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
+### 📋 API RESTFUL [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/Decolha-Tech-2025---API-REST-Spring-Boot-3.git)
+### 📋 API RESTFUL - Frontend [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-angular-remake.git)
+
+
+
 
 ### Techs
 
@@ -63,13 +68,13 @@
 
 ## 💻 Technical Skills
 **💪 Core Competencies:**
-- ☕ **Java** (OOP, Liquibase, Lombok)
+- ☕ **Java** (Spring Boot, Spring JPA, OOP, Liquibase, Lombok)
+- 🛠 HTML/CSS/JavaScript/TypeScript
 - 🐍 **Python**
-- 🗃️ **Database Management** (MySQL)
+- 🗃️ **Database Management** (MySQL, PostgreSQL, H2)
 - 🔄 **Git & GitHub** Version Control
 
 ✔ **Basic Knowledge:**
-- 🛠 HTML/CSS/JavaScript/TypeScript
 - 🐧 **Linux** Systems
 
 ## 🏆 Certifications & Courses
@@ -79,6 +84,8 @@
 | **CursoemVideo** | Algorithms, Python, Git & GitHub, MySQL, Java Basics, Computer Networks |
 | **UNINTER** | Object-Oriented Programming with Java |
 | **DIO** | Integração de Sistemas com Banco de Dados (Java e MySQL) |
+| **DIO** | Angular |
+| **Nélio Alves** | Intensivão Spring Boot |
 
 ## About Me
 - ✨ **Pronouns:** He/Him
