@@ -6,9 +6,9 @@
 
 
 ## Most Relevant Projects
-### 📋 Task Board System [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
+### 📋 TASK BOARD SYSTEM [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
 ### 📋 API RESTFUL [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/Decolha-Tech-2025---API-REST-Spring-Boot-3.git)
-### 📋 API RESTFUL - Frontend [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-angular-remake.git)
+### 📋 API RESTFUL - FRONTEND [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-angular-remake.git)
 
 
 
