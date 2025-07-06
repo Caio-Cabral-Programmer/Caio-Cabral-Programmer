@@ -57,7 +57,8 @@
 ## 💻 Technical Skills
 **💪 Core Competencies:**
 - ☕ **Java** (Spring Boot, Spring JPA, OOP, Liquibase, Lombok)
-- 🛠 HTML/CSS/JavaScript/TypeScript
+- 🛠 **Angular** (HTML/CSS/JavaScript/TypeScript)
+- 📦 **Docker**
 - 🐍 **Python**
 - 🗃️ **Database Management** (MySQL, PostgreSQL, H2)
 - 🔄 **Git & GitHub** Version Control
