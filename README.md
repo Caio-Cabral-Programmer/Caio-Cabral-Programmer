@@ -60,7 +60,7 @@
 - 🛠 **Angular** → HTML/CSS/JavaScript/TypeScript
 - 📦 **Docker**
 - 🐍 **Python**
-- 🗃️ **Database Management** (MySQL, PostgreSQL, H2)
+- 🗃️ **Database Management** → SQL Server, MySQL, PostgreSQL, H2
 - 🔄 **Git & GitHub** Version Control
 
 ✔ **Basic Knowledge:**
