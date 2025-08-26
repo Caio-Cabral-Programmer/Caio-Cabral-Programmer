@@ -17,7 +17,7 @@
 
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,spring,mysql,postgresql,docker,py,js,ts,html,css,angular&size=40" />
+  <img src="https://skillicons.dev/icons?i=git,github,java,spring,mysql,postgresql,docker,py,js,ts,html,css,react,angular&size=40" />
 </p>
 
 ###
@@ -57,7 +57,7 @@
 ## 💻 Technical Skills
 **💪 Core Competencies:**
 - ☕ **Java** → Spring Boot, Spring JPA, Spring Security, OOP, Liquibase, Lombok
-- 🛠 **Angular** → HTML/CSS/JavaScript/TypeScript
+- 🛠 **Angular | React** → HTML/CSS/JavaScript/TypeScript
 - 📦 **Docker**
 - 🐍 **Python**
 - 🗃️ **Database Management** → SQL Server, MySQL, PostgreSQL, H2
