@@ -6,9 +6,11 @@
 
 
 ## Most Relevant Projects
-### 📋 TASK BOARD SYSTEM [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
-### 📋 API RESTFUL [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/Decolha-Tech-2025---API-REST-Spring-Boot-3.git)
-### 📋 API RESTFUL - FRONTEND [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-angular-remake.git)
+### 📋 TASK BOARD SYSTEM - JAVA [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
+### 📋 API RESTFUL - BACKEND-SPRINGBOOT [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/Decolha-Tech-2025---API-REST-Spring-Boot-3.git)
+### 📋 API RESTFUL - FRONTEND-ANGULAR [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-angular-remake.git)
+### 📋 API RESTFUL - FRONTEND-REACT [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-react-bootstrap-remake.git)
+
 
 
 
@@ -51,7 +53,8 @@
 ## 📚 Currently Studying
 - 🎓 Systems Analysis and Development at **UNINTER** - 15/07/2024 to 15/01/2027 (2 and a half years)
 - ☕ **Advanced Java** concepts and Spring/SpringBoot frameworks
-- ✨ **Advanced HTML/CSS/JS/TS** concepts and Angular framework
+- 🛠 **Advanced .NET** concepts and .NET/ASP.NET frameworks
+- ✨ **Advanced HTML/CSS/JS/TS** concepts and Angular/React
 - 🌎 **English proficiency** for tech communication
 
 ## 💻 Technical Skills
