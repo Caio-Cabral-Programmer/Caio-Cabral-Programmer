@@ -53,14 +53,14 @@
 ## 📚 Currently Studying
 - 🎓 Systems Analysis and Development at **UNINTER** - 15/07/2024 to 15/01/2027 (2 and a half years)
 - ☕ **Advanced Java** concepts and Spring/SpringBoot frameworks
-- 🛠 **Advanced .NET** concepts and .NET/ASP.NET frameworks
+- 🪟 **Advanced .NET** concepts and .NET/ASP.NET frameworks
 - ✨ **Advanced HTML/CSS/JS/TS** concepts and Angular/React
 - 🌎 **English proficiency** for tech communication
 
 ## 💻 Technical Skills
 **💪 Core Competencies:**
 - ☕ **Java** → Spring Boot, Spring JPA, Spring Security, OOP, Liquibase, Lombok
-- 🛠 **.NET** → C#, ASP.NET, EF CORE
+- 🪟 **.NET** → C#, ASP.NET, EF CORE
 - 🛠 **Angular | React** → HTML/CSS/JavaScript/TypeScript
 - 📦 **Docker**
 - 🐍 **Python**
@@ -71,8 +71,9 @@
 - 🐧 **Linux** Systems
 
 ## 🏆 Certifications & Courses
-| Provider | Courses |
+| Provider | Courses/Certifications |
 |----------|---------|
+| 🪟**Microsoft** | AI-900 |
 | **Cisco** | CCNA-1, CyberOps, Endpoint Security |
 | **CursoemVideo** | Algorithms, Python, Git & GitHub, MySQL, Java Basics, Computer Networks |
 | **UNINTER** | Object-Oriented Programming with Java |
