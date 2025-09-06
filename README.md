@@ -28,7 +28,7 @@
 
 ### 🔗 Links Úteis
 
-[![Notion Java](https://img.shields.io/badge/📚_Notion-My_Java_Study_Board-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
+[![Notion Java](https://img.shields.io/badge/📚_Notion-My_Study_Board-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
 [![Notion ADS](https://img.shields.io/badge/🎓_Notion-Faculdade_ADS_Uninter_(Grade)-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Faculdade-ADS-Uninter-1c990d83bc3380cfa359dcd91e1b6bd4?pvs=4)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Caio_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cabral-programmer/)
 
@@ -60,10 +60,11 @@
 ## 💻 Technical Skills
 **💪 Core Competencies:**
 - ☕ **Java** → Spring Boot, Spring JPA, Spring Security, OOP, Liquibase, Lombok
+- 🛠 **.NET** → C#, ASP.NET, EF CORE
 - 🛠 **Angular | React** → HTML/CSS/JavaScript/TypeScript
 - 📦 **Docker**
 - 🐍 **Python**
-- 🗃️ **Database Management** → SQL Server, MySQL, PostgreSQL, H2
+- 🗃️ **Database Management** → SQL Server, SQLite, MySQL, PostgreSQL, H2
 - 🔄 **Git & GitHub** Version Control
 
 ✔ **Basic Knowledge:**
