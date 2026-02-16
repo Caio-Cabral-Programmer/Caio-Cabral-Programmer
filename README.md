@@ -1,7 +1,7 @@
 # Hello! Welcome!
-## I'm Caio Cabral, a Full-Stack Developer
+## I'm Caio Cabral, a Software Developer: React and Angular | .NET and Spring Boot
 
-<div align="center">
+<div align="left">
 
 
 
@@ -51,7 +51,7 @@
 </div>
 
 ## 📚 Currently Studying
-- 🎓 Systems Analysis and Development at **UNINTER** - 15/07/2024 to 15/01/2027 (2 and a half years)
+- 🎓 Systems Analysis and Development at **UNINTER**
 - ☕ **Advanced Java** concepts and Spring/SpringBoot frameworks
 - 🪟 **Advanced .NET** concepts and .NET/ASP.NET frameworks
 - ✨ **Advanced HTML/CSS/JS/TS** concepts and Angular/React
@@ -74,6 +74,11 @@
 | Provider | Courses/Certifications |
 |----------|---------|
 | 🪟**Microsoft** | AI-900 |
+| **Avanade** | React |
+| **Avanade** | Angular |
+| **Avanade** | .NET |
+| **Avanade** | Java Spring |
+| **Avanade** | SQL Server |
 | **Cisco** | CCNA-1, CyberOps, Endpoint Security |
 | **CursoemVideo** | Algorithms, Python, Git & GitHub, MySQL, Java Basics, Computer Networks |
 | **UNINTER** | Object-Oriented Programming with Java |
