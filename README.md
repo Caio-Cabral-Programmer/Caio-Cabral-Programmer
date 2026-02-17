@@ -1,5 +1,5 @@
 # Hello! Welcome!
-## I'm Caio Cabral, a Software Developer: React and Angular | .NET and Spring Boot
+## I'm Caio Cabral, a Software Engineer: React and Angular | .NET and Spring Boot
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cabral-programmer/)
 [![LinkedIn](https://img.shields.io/badge/WebSite_Portfolio-000000?style=for-the-badge&amp;logo=html5&amp;logoColor=white)](https://caio-cabral-programmer.github.io/portfolio-dev)
