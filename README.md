@@ -1,95 +1,86 @@
 # Hello! Welcome!
 ## I'm Caio Cabral, a Software Developer: React and Angular | .NET and Spring Boot
 
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Caio_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cabral-programmer/)
+[![LinkedIn](https://img.shields.io/badge/WebSite_Portfolio-000000?style=for-the-badge&amp;logo=html5&amp;logoColor=white)](https://caio-cabral-programmer.github.io/portfolio-dev)
+[![Notion Java](https://img.shields.io/badge/Notion-Study_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
+[![Notion ADS](https://img.shields.io/badge/Notion-University_Curriculum-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Faculdade-ADS-Uninter-1c990d83bc3380cfa359dcd91e1b6bd4?pvs=4)
+
+<br>
+
 <div align="left">
 
-
-
 ## Most Relevant Projects
-### 📋 TASK BOARD SYSTEM - JAVA [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git)
-### 📋 API RESTFUL - BACKEND-SPRINGBOOT [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/Decolha-Tech-2025---API-REST-Spring-Boot-3.git)
-### 📋 API RESTFUL - FRONTEND-ANGULAR [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-angular-remake.git)
-### 📋 API RESTFUL - FRONTEND-REACT [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-react-bootstrap-remake.git)
-
-
-
-
-
-### Techs
-
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,java,spring,mysql,postgresql,docker,py,js,ts,html,css,react,angular&size=40" />
-</p>
-
-###
-
-###
-
-### 🔗 Links Úteis
-
-[![Notion Java](https://img.shields.io/badge/📚_Notion-My_Study_Board-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
-[![Notion ADS](https://img.shields.io/badge/🎓_Notion-Faculdade_ADS_Uninter_(Grade)-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Faculdade-ADS-Uninter-1c990d83bc3380cfa359dcd91e1b6bd4?pvs=4)
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Caio_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cabral-programmer/)
+### [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/DecolaTech2025-Projeto-Board-de-Tarefas.git) 📋 Task Board System - Java
+### [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/Decolha-Tech-2025---API-REST-Spring-Boot-3.git) 📋 BANK API RESTFUL - BACKEND → Java Spring Boot, PostgreSQL, Swagger
+### [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-angular-remake.git) 📋 BANK API RESTFUL - FRONTEND → ANGULAR 
+### [![GitHub Repo](https://img.shields.io/badge/GitHub-View_Project-blue?style=flat-square&logo=github)](https://github.com/Caio-Cabral-Programmer/contas-bancarias-react-bootstrap-remake.git) 📋 BANK API RESTFUL - FRONTEND → REACT 
 
 </div>
 
----
+<br>
 
-## 📊 GitHub Stats
+## My Techs
 
-<div align="center">
-  
-  <!-- Estatísticas gerais -->
-  <img width="48%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Caio-Cabral-Programmer&show_icons=true&count_private=true&hide_border=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117" alt="Caio's GitHub stats" />
-  
-  <!-- Linguagens mais usadas -->
-  <img width="40%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Caio-Cabral-Programmer&layout=compact&hide_border=true&title_color=80F7D4&text_color=fff&bg_color=0d1117" alt="Top Languages" />
-
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c#&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=dotnet&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=java&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=spring&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=js&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=ts&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=html&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=css&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=react&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=angular&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=mysql&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=postgresql&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=docker&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=git&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=github&amp;size=40" />
+  <img src="https://skillicons.dev/icons?i=py&amp;size=40" />
 </div>
 
+<br>
+
+### 📋 Languages
+
+<div style="display: inline_block">
+<img align="center" alt="C#" src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
+<img align="center" alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
+<img align="center" alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+<img align="center" alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+<img align="center" alt="Python" src="https://img.shields.io/badge/Python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white">
+<img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+<img align="center" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
 </div>
 
-## 📚 Currently Studying
-- 🎓 Systems Analysis and Development at **UNINTER**
-- ☕ **Advanced Java** concepts and Spring/SpringBoot frameworks
-- 🪟 **Advanced .NET** concepts and .NET/ASP.NET frameworks
-- ✨ **Advanced HTML/CSS/JS/TS** concepts and Angular/React
-- 🌎 **English proficiency** for tech communication
+### 📚 Frameworks & Libraries
 
-## 💻 Technical Skills
-**💪 Core Competencies:**
-- ☕ **Java** → Spring Boot, Spring JPA, Spring Security, OOP, Liquibase, Lombok
-- 🪟 **.NET** → C#, ASP.NET, EF CORE
-- 🛠 **Angular | React** → HTML/CSS/JavaScript/TypeScript
-- 📦 **Docker**
-- 🐍 **Python**
-- 🗃️ **Database Management** → SQL Server, SQLite, MySQL, PostgreSQL, H2
-- 🔄 **Git & GitHub** Version Control
+<div style="display: inline_block">
+  <img align="center" alt="Spring" src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
+  <img align="center" alt=".NET" src="https://img.shields.io/badge/.NET-6DB33F.svg?style=for-the-badge&logo=.net&logoColor=white">
+  <img align="center" alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
+  <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img align="center" alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white">
+</div>
 
-✔ **Basic Knowledge:**
-- 🐧 **Linux** Systems
+### 💾 Databases
 
-## 🏆 Certifications & Courses
-| Provider | Courses/Certifications |
-|----------|---------|
-| 🪟**Microsoft** | AI-900 |
-| **Avanade** | React |
-| **Avanade** | Angular |
-| **Avanade** | .NET |
-| **Avanade** | Java Spring |
-| **Avanade** | SQL Server |
-| **Cisco** | CCNA-1, CyberOps, Endpoint Security |
-| **CursoemVideo** | Algorithms, Python, Git & GitHub, MySQL, Java Basics, Computer Networks |
-| **UNINTER** | Object-Oriented Programming with Java |
-| **DIO** | Integração de Sistemas com Banco de Dados (Java e MySQL) |
-| **DIO** | Angular |
-| **Nélio Alves** | Intensivão Spring Boot |
+<div style="display: inline_block">
+  <img align="center" alt="SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white">
+  <img align="center" alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img align="center" alt="MySQL" src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
 
-## About Me
-- ✨ **Pronouns:** He/Him
-- 🌱 Always learning and growing in tech
-- 💡 Passionate about problem-solving and clean code
+### 🧰 Other Tools
 
-🚀 **Let's connect and build amazing things together!**
-
+<div style="display: inline_block">
+  <img align="center" alt="GitHub Copilot" src="https://img.shields.io/badge/github_copilot-8957E5?style=for-the-badge&logo=github-copilot&logoColor=white">
+  <img align="center" alt="MCP" src="https://img.shields.io/badge/Model_Context_Protocol-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+  <img align="center" alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+</div>
