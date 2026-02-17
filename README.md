@@ -1,10 +1,10 @@
 # Hello! Welcome!
 ## I'm Caio Cabral, a Software Developer: React and Angular | .NET and Spring Boot
 
-[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Caio_Cabral-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cabral-programmer/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-cabral-programmer/)
 [![LinkedIn](https://img.shields.io/badge/WebSite_Portfolio-000000?style=for-the-badge&amp;logo=html5&amp;logoColor=white)](https://caio-cabral-programmer.github.io/portfolio-dev)
-[![Notion Java](https://img.shields.io/badge/Notion-Study_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
-[![Notion ADS](https://img.shields.io/badge/Notion-University_Curriculum-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Faculdade-ADS-Uninter-1c990d83bc3380cfa359dcd91e1b6bd4?pvs=4)
+[![Notion Java](https://img.shields.io/badge/Study_Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Java-1c990d83bc33814c9659f977de346a2a?pvs=4)
+[![Notion ADS](https://img.shields.io/badge/University_Curriculum-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/Faculdade-ADS-Uninter-1c990d83bc3380cfa359dcd91e1b6bd4?pvs=4)
 
 <br>
 
