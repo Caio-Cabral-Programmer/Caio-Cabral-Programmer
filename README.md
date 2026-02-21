@@ -13,9 +13,9 @@
 ## Languages
 
 <div align="left">
-  <img src="https://img.shields.io/badge/🇧🇷_Portuguese_Native-00A859?style=for-the-badge" alt="Portuguese [Native]">
-  <img src="https://img.shields.io/badge/🇺🇸_English_B2_Level-007ACC?style=for-the-badge" alt="English [B2 Level]">
-  <img src="https://img.shields.io/badge/🇪🇸_Spanish_B1_Level-E34C26?style=for-the-badge" alt="Spanish [B1 Level]">
+  <img src="https://img.shields.io/badge/🇧🇷_Portuguese_[Native]-00A859?style=for-the-badge" alt="Portuguese [Native]">
+  <img src="https://img.shields.io/badge/🇺🇸_English_[B2_Level]-007ACC?style=for-the-badge" alt="English [B2 Level]">
+  <img src="https://img.shields.io/badge/🇪🇸_Spanish_[B1_Level]-E34C26?style=for-the-badge" alt="Spanish [B1 Level]">
 </div>
 
 <br>
